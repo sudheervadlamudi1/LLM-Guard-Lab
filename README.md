@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/guardrails-ai/guardrails/main/docs/assets/Guardrails-ai-logo-for-dark-bg.svg#gh-dark-mode-only" alt="Guardrails AI Logo" width="600px">
-<img src="https://raw.githubusercontent.com/guardrails-ai/guardrails/main/docs/assets/Guardrails-ai-logo-for-white-bg.svg#gh-light-mode-only" alt="Guardrails AI Logo" width="600px">
 
 <hr>
 
@@ -245,5 +241,6 @@ Guardrails can be used with Python and JavaScript. Check out the docs on how to 
 We welcome contributions to LLM Guard Lab!
 
 Get started by checking out Github issues and check out the [Contributing Guide](CONTRIBUTING.md). Feel free to open an issue, or reach out if you would like to add to the project!
-#   L L M - G u a r d - L a b  
+#   L L M - G u a r d - L a b 
+ 
  
